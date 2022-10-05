@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from baby_products_dataload.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "baby_products_dataload"

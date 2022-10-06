@@ -1,0 +1,273 @@
+[
+  {
+    "name": "Infant Optics DXR-8 Pro",
+    "type": "Baby Monitor",
+    "price": 200,
+    "features": [
+      "Active Noise Reduction",
+      "Remote Pan and Tilt",
+      "3x Digital Zoom",
+      "Add-On Wide Angle Lens",
+      "LED Sound Indicator",
+      "Temperature Sensor",
+      "Two-Way Audio",
+      "Easy to Setup",
+      "Okay Video and Audio Quality"
+    ],
+    "accolades": [
+      {
+        "accolade": "CNET - Best Non-Wi-Fi Video Baby Monitor",
+        "source": "https://www.cnet.com/health/parenting/best-baby-monitor/"
+      },
+      {
+        "accolade": "Forbes - Other Baby Monitors We Liked",
+        "source": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitors/?sh=312846339e3a"
+      },
+      {
+        "accolade": "Babylist - Best Baby Monitor for Babys Close-Up",
+        "source": "https://www.babylist.com/hello-baby/best-baby-monitor"
+      },
+      {
+        "accolade": "NY Times - The Best Baby Monitor Runner Up",
+        "source": "https://www.nytimes.com/wirecutter/reviews/best-baby-monitor/"
+      }
+    ]
+  },
+  {
+    "name": "Lollipop Smart Baby Camera",
+    "type": "Baby Monitor",
+    "price": 164,
+    "features": [
+      "Less Intuitive App",
+      "Feature Rich App",
+      "True Crying Detection",
+      "Crossing Detection",
+      "Subscription - Sleep Tracking",
+      "Add-On - Temperature and Humidity Monitoring",
+      "Tricky to Connect",
+      "Poor Audio and Video Quality",
+      "App Enabled",
+      "Wi-Fi",
+      "Camera Resolution: 1080p"
+    ],
+    "accolades": [
+      {
+        "accolade": "CNET - Good Budget Wi-Fi Monitor",
+        "source": "https://www.cnet.com/health/parenting/best-baby-monitor/"
+      },
+      {
+        "accolade": "Forbes - Best Baby Monitor For Portability",
+        "source": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitors/?sh=312846339e3a"
+      }
+    ]
+  },
+  {
+    "name": "Hellobaby Video Baby Monitor HB32",
+    "type": "Baby Monitor",
+    "price": 150,
+    "features": [
+      "Temperature Sensor",
+      "Lullabies",
+      "Two-Way Audio",
+      "2x Digital Zoom",
+      "VOX (Voice Activated Alert) Mode",
+      "Easy to Setup",
+      "Good Battery Life",
+      "Poor Audio and Video Quality"
+    ],
+    "accolades": [
+      {
+        "accolade": "CNET - Good Budget Video Baby Monitor",
+        "source": "https://www.cnet.com/health/parenting/best-baby-monitor/"
+      }
+    ]
+  },
+  {
+    "name": "Miku Pro Smart Baby Monitor",
+    "type": "Baby Monitor",
+    "price": 399,
+    "features": [
+      "Real-Time Breathing Monitoring - No Wearables",
+      "Two-Way Audio",
+      "Built-In Night Light",
+      "White-Noise",
+      "Lullabies",
+      "Sleep Tracking",
+      "Temperature and Humidity Monitoring",
+      "Cloud Storage Free - No Subscription",
+      "1080p HD Video",
+      "Bad App Experience"
+    ],
+    "accolades": [
+      {
+        "accolade": "CNET - Best Breathing Monitor",
+        "source": "https://www.cnet.com/health/parenting/best-baby-monitor/"
+      },
+      {
+        "accolade": "Forbes - Other Baby Monitors We Liked",
+        "source": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitors/?sh=312846339e3a"
+      },
+      {
+        "accolade": "Babylist - Best Baby Movement Monitor",
+        "source": "https://www.babylist.com/hello-baby/best-baby-monitor"
+      }
+    ]
+  },
+  {
+    "name": "Eufy SpaceView Pro",
+    "type": "Baby Monitor",
+    "price": 170,
+    "features": [
+      "Noise Detection Alert",
+      "VOX (Voice Activated Alert) Mode",
+      "Two-Way Audio",
+      "Lullabies",
+      "Temperature Sensor",
+      "Wall Mount Kit",
+      "Easy to Setup",
+      "Long Battery Life",
+      "Standout Video Quality",
+      "Bad Audio Quality",
+      "Range: 1,000-foot",
+      "No Wi-Fi"
+    ],
+    "accolades": [
+      {
+        "accolade": "CNET - Best Baby Monitor with Clear Video Quality",
+        "source": "https://www.cnet.com/health/parenting/best-baby-monitor/"
+      },
+      {
+        "accolade": "Forbes - Best Overall Baby Monitor",
+        "source": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitors/?sh=312846339e3a"
+      },
+      {
+        "accolade": "NY Times - The Best Baby Monitor",
+        "source": "https://www.nytimes.com/wirecutter/reviews/best-baby-monitor/"
+      }
+    ]
+  },
+  {
+    "name": "Cubo Ai Plus Smart Baby Monitor",
+    "type": "Baby Monitor",
+    "price": 199,
+    "features": [
+      "Baby Position Alert",
+      "Aesthetic / Hidden Camera",
+      "18 Hour Playback",
+      "Temperature and Humidity Monitoring",
+      "Two-Way Audio",
+      "White-Noise",
+      "Lullabies",
+      "Nanny-Cam",
+      "Danger Zones (Kitchen)",
+      "Tricky to Connect",
+      "Poor Audio and Video Quality"
+    ],
+    "accolades": [
+      {
+        "accolade": "CNET - Posterity and Peace of Mind",
+        "source": "https://www.cnet.com/health/parenting/best-baby-monitor/"
+      },
+      {
+        "accolade": "Forbes - Other Baby Monitors We Liked",
+        "source": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitors/?sh=312846339e3a"
+      }
+    ]
+  },
+  {
+    "name": "Wyze Cam Pan v2 1080p",
+    "type": "Baby Monitor",
+    "price": 40,
+    "features": [
+      "Remote Pan and Tilt",
+      "Works With Alexa and Google",
+      "Video Storage",
+      "Night Vision",
+      "Push Notifications"
+    ],
+    "accolades": [
+      {
+        "accolade": "Babylist - Best Budget WiFi Baby Monitor",
+        "source": "https://www.babylist.com/hello-baby/best-baby-monitor"
+      }
+    ]
+  },
+  {
+    "name": "Chillax Baby Giraffe Cam Pro",
+    "type": "Baby Monitor",
+    "price": 150,
+    "features": [
+      "Wi-Fi",
+      "Private Channel Dedicated (Non-Wi-Fi)",
+      "Range: 1200 Foot",
+      "Night Vision",
+      "1080p (480 x 272 on Handheld Monitor)",
+      "App Enabled",
+      "Wall Mount Kit",
+      "Clip-On",
+      "Lullabies",
+      "Two-Way Audio",
+      "Sleep Tracking",
+      "Video Storage"
+    ],
+    "accolades": [
+      {
+        "accolade": "Forbes - Best Value Baby Monitor",
+        "source": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitors/?sh=312846339e3a"
+      }
+    ]
+  },
+  {
+    "name": "Nanit Pro Camera",
+    "type": "Baby Monitor",
+    "price": 300,
+    "features": [
+      "Two-Way Audio",
+      "Built-in Night Light",
+      "White-Noise",
+      "Push Notifications",
+      "Temperature and Humidity Monitoring",
+      "Video Storage",
+      "Subscription - Sleep Tracking",
+      "Subscription - Detailed Sleep Report",
+      "Add-On - Breathing Wear (heart-rate)",
+      "Easy to Setup",
+      "Best Audio and Video Quality",
+      "Wi-Fi"
+    ],
+    "accolades": [
+      {
+        "accolade": "CNET - Best Overall Wi-Fi Monitor",
+        "source": "https://www.cnet.com/health/parenting/best-baby-monitor/"
+      },
+      {
+        "accolade": "Forbes - Other Baby Monitors We Liked",
+        "source": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-baby-monitors/?sh=312846339e3a"
+      },
+      {
+        "accolade": "Babylist - Best WiFi Baby Monitor",
+        "source": "https://www.babylist.com/hello-baby/best-baby-monitor"
+      }
+    ]
+  },
+  {
+    "name": "VAVA Baby Monitor",
+    "type": "Baby Monitor",
+    "price": 180,
+    "features": [
+      "5-Inch High-Def Display",
+      "Good Battery Life",
+      "Easy to Setup",
+      "Temperature Sensor",
+      "Two-Way Audio",
+      "Connect up to Four Cameras",
+      "Range: 900 feet"
+    ],
+    "accolades": [
+      {
+        "accolade": "Babylist - Best Video Baby Monitor",
+        "source": "https://www.babylist.com/hello-baby/best-baby-monitor"
+      }
+    ]
+  }
+]
